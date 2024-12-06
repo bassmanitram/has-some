@@ -1,0 +1,15 @@
+[package]
+name = "has-some"
+description = "The opposite of is_empty"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Bartlett"]
+license = "Apache-2.0"
+homepage = "https://github.com/bassmanitram/has-some"
+repository = "https://github.com/bassmanitram/has-some"
+documentation = "https://docs.rs/has-some"
+readme = "README.md"
+keywords = ["iterators", "collections", "slices"]
+categories = ["rust-patterns"]
+
+[dependencies]
