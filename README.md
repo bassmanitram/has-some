@@ -1,4 +1,7 @@
 # has-some
+
+![CI](https://github.com/bassmanitram/has-some/actions/workflows/rust.yml/badge.svg)
+
 Implement the opposite of `is_empty` to promote better semantics for iterator 
 filters (and other situations) where `!T.is_empty()` is counterintuitive, as 
 well as introduce filter_friendly versions of `T::is_empty`.
